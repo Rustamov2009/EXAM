@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1920px;
+    height: 960px;
+    border: 1px solid green;
+    margin: 75px auto;
+    
+}
+
+.text ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 72px;
+    margin-right: 259px;
+}
+
+.head-img {
+    margin: 51px 185px;
+}
+
+.text ul li {
+    font-family: Roboto Mono;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 53px;
+    letter-spacing: 0em;
+    text-align: center;
+    text-shadow:  0px 7px 4px  purple;
+    
+
+
+
+}
+
+.head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.body-img {
+    margin: 0 185px;
+}
+
+.body {
+    display: flex;
+    height: 626px;
+
+}
+
+.bigbox {
+    display: flex;
+    flex-wrap: wrap;
+    width: 800px;
+    gap: 119px;
+}
+
+.box1 {
+    width: 164px;
+    height: 164px;
+    box-shadow: 0px 8px 24px 0px rgba(47, 198, 60, 1);
+}
+.box2 {
+    width: 164px;
+    height: 164px;
+    box-shadow: 0px 7px 29px 0px rgba(100, 100, 111, 0.2);
+}
+.box3 {
+    width: 164px;
+    height: 164px;
+    box-shadow: 1.9500000476837158px 1.9500000476837158px 2.5999999046325684px 0px rgba(0, 0, 0, 0.15);
+}
+.box4 {
+    width: 164px;
+    height: 164px;
+    box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.35);
+}
+.box5 {
+    width: 164px;
+    height: 164px;
+    box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.67);
+}
+.box6 {
+    width: 164px;
+    height: 164px;
+    box-shadow: 0px 3px 8px 0px rgba(255, 0, 0, 1);
+}
+.box7 {
+    width: 164px;
+    height: 164px;
+    box-shadow: 0px 8px 24px 0px rgba(0, 127, 253, 0.92);
+}
+.box8 {
+    width: 164px;
+    height: 164px;
+    box-shadow: 0px 7px 36px 0px rgba(100, 100, 111, 0.66);
+}
+.box9 {
+    width: 164px;
+    height: 164px;
+    box-shadow: 1.9500000476837158px 1.9500000476837158px 2.5999999046325684px 0px rgba(0, 0, 0, 0.15);
+}
